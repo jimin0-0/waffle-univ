@@ -1,0 +1,57 @@
+{
+  "breads": [
+    { "id": 1, "name": "플레인 와플", "price": 0, "image": "/images/bread01.png" },
+    { "id": 2, "name": "우리쌀 와플", "price": 500, "image": "/images/bread02.png" },
+    { "id": 3, "name": "블랙 와플", "price": 500, "image": "/images/bread03.png" }
+  ],
+  "creams": [
+    { "id": 1, "name": "밀크크림", "price": 0, "image": "/images/cream01.png" },
+    { "id": 2, "name": "초코크림", "price": 0, "image": "/images/cream02.png" },
+    { "id": 3, "name": "딸기크림", "price": 0, "image": "/images/cream03.png" },
+    { "id": 4, "name": "모카크림", "price": 0, "image": "/images/cream04.png" },
+    { "id": 5, "name": "땅콩크림", "price": 0, "image": "/images/cream05.png" },
+    { "id": 6, "name": "망고크림", "price": 0, "image": "/images/cream06.png" },
+    { "id": 7, "name": "블루베리크림", "price": 0, "image": "/images/cream07.png" },
+    { "id": 8, "name": "치즈크림", "price": 0, "image": "/images/cream08.png" },
+    { "id": 9, "name": "사과크림", "price": 0, "image": "/images/cream09.png" },
+    { "id": 10, "name": "요거트크림", "price": 0, "image": "/images/cream10.png" }
+  ],
+  "toppings": [
+    { "id": 1, "name": "추가 안함", "price": 0, "image": "/images/none.png" },
+    { "id": 2, "name": "초코칩", "price": 1000, "image": "/images/topping01.png" },
+    { "id": 3, "name": "해바라기씨", "price": 500, "image": "/images/topping02.png" },
+    { "id": 4, "name": "코코넛", "price": 500, "image": "/images/topping03.png" },
+    { "id": 5, "name": "아몬드", "price": 500, "image": "/images/topping04.png" },
+    { "id": 6, "name": "호두", "price": 700, "image": "/images/topping05.png" },
+    { "id": 7, "name": "블루베리", "price": 1000, "image": "/images/topping06.png" },
+    { "id": 8, "name": "오레오", "price": 500, "image": "/images/topping07.png" },
+    { "id": 9, "name": "치즈케이크", "price": 500, "image": "/images/topping08.png" },
+    { "id": 10, "name": "크랜베리", "price": 500, "image": "/images/topping09.png" },
+    { "id": 11, "name": "크런치쿠키", "price": 700, "image": "/images/topping10.png" },
+    { "id": 12, "name": "망고다이스", "price": 1000, "image": "/images/topping11.png" },
+    { "id": 13, "name": "딸기시럽", "price": 500, "image": "/images/topping12.png" },
+    { "id": 14, "name": "블루베리시럽", "price": 500, "image": "/images/topping13.png" },
+    { "id": 15, "name": "사과잼", "price": 500, "image": "/images/topping14.png" },
+    { "id": 16, "name": "초코시럽", "price": 500, "image": "/images/topping15.png" },
+    { "id": 17, "name": "화이트크림", "price": 500, "image": "/images/topping16.png" }
+  ],
+  "gelatos": [
+    { "id": 18, "name": "바닐라 젤라또", "price": 0, "image": "/images/ice_topping01.png" },
+    { "id": 19, "name": "초코 젤라또", "price": 0, "image": "/images/ice_topping02.png" },
+    { "id": 20, "name": "초코바닐라 젤라또", "price": 0, "image": "/images/ice_topping03.png" },
+    { "id": 21, "name": "딸기 젤라또", "price": 0, "image": "/images/ice_topping04.png" },
+    { "id": 22, "name": "크림치즈 젤라또", "price": 0, "image": "/images/ice_topping05.png" },
+    { "id": 23, "name": "플레인요거트 젤라또", "price": 0, "image": "/images/ice_topping06.png" },
+    { "id": 24, "name": "블루베리 젤라또", "price": 0, "image": "/images/ice_topping07.png" },
+    { "id": 25, "name": "녹차 젤라또", "price": 0, "image": "/images/ice_topping08.png" },
+    { "id": 26, "name": "망고 젤라또", "price": 0, "image": "/images/ice_topping09.png" },
+    { "id": 27, "name": "바나나우유 젤라또", "price": 0, "image": "/images/ice_topping10.png" }
+  ],
+   "icecreamToppings": [
+    { "id": 28, "name": "딸기", "price": 1000, "image": "/images/gelato_topping01.png" },
+    { "id": 29, "name": "치즈케이크", "price": 500, "image": "/images/gelato_topping02.png" },
+    { "id": 30, "name": "크런치딸기잼", "price": 500, "image": "/images/gelato_topping03.png" },
+    { "id": 31, "name": "블루베리", "price": 1000, "image": "/images/gelato_topping04.png" },
+    { "id": 32, "name": "베리베리", "price": 1000, "image": "/images/gelato_topping05.png" }
+  ]
+}
