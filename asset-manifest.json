@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/waffle-univ/static/css/main.bd3d2b52.css",
-    "main.js": "/waffle-univ/static/js/main.9e489eb3.js",
+    "main.js": "/waffle-univ/static/js/main.bca80af2.js",
     "static/js/900.ed96fe43.chunk.js": "/waffle-univ/static/js/900.ed96fe43.chunk.js",
     "static/js/453.2256ba82.chunk.js": "/waffle-univ/static/js/453.2256ba82.chunk.js",
     "static/media/bg2.jpg": "/waffle-univ/static/media/bg2.1b33e81f75c0e596f3a9.jpg",
     "index.html": "/waffle-univ/index.html",
     "main.bd3d2b52.css.map": "/waffle-univ/static/css/main.bd3d2b52.css.map",
-    "main.9e489eb3.js.map": "/waffle-univ/static/js/main.9e489eb3.js.map",
+    "main.bca80af2.js.map": "/waffle-univ/static/js/main.bca80af2.js.map",
     "453.2256ba82.chunk.js.map": "/waffle-univ/static/js/453.2256ba82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd3d2b52.css",
-    "static/js/main.9e489eb3.js"
+    "static/js/main.bca80af2.js"
   ]
 }
